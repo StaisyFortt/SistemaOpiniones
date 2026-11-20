@@ -28,3 +28,4 @@ bld/
 .vs/
 *.VC.db
 *.VC.VC.opendb
+*.drawio
