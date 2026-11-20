@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SistemaOpiniones.Api/SistemaOpiniones.Api.csproj" />
+  <Project Path="SistemaOpiniones.Data/SistemaOpiniones.Data.csproj" />
+  <Project Path="SistemaOpiniones.WkService/SistemaOpiniones.WkService.csproj" />
+</Solution>

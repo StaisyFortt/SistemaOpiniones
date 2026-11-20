@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0">
+  <diagram name="Arquitectura ETL - Sistema de Opiniones" id="etl-arch-01">
+    <mxGraphModel dx="1212" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="grp_sources" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;startSize=30;rounded=1;" value="1. Fuentes de Datos&amp;nbsp;" vertex="1">
+          <mxGeometry height="460" width="220" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="src_csv" parent="grp_sources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontStyle=1;" value="Archivos CSV&#xa;(surveys_part1.csv)&#xa;Encuestas Internas" vertex="1">
+          <mxGeometry height="80" width="170" x="25" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="src_db" parent="grp_sources" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12;fillColor=#ffffff;strokeColor=#d6b656;fontStyle=1;" value="BD Relacional (SQL Server)&#xa;(OpinionesDB)&#xa;Reseñas Web" vertex="1">
+          <mxGeometry height="90" width="170" x="25" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="src_api" parent="grp_sources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#d6b656;fontStyle=1;" value="API REST (.NET 8 Web API)&#xa;(SistemaOpiniones.Api)&#xa;Comentarios Redes Sociales" vertex="1">
+          <mxGeometry height="80" width="170" x="25" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="grp_worker" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;startSize=30;rounded=1;" value="2. Servicio ETL (SistemaOpiniones.WkService &amp; .Data - .NET 8)" vertex="1">
+          <mxGeometry height="460" width="440" x="320" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ext_csv" parent="grp_worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="CsvExtractor : IExtractor&#xa;(CsvHelper / FileStream Async)" vertex="1">
+          <mxGeometry height="80" width="180" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ext_db" parent="grp_worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="DatabaseExtractor : IExtractor&#xa;(ADO.NET / SqlClient Async)" vertex="1">
+          <mxGeometry height="80" width="180" x="30" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="ext_api" parent="grp_worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" value="ApiExtractor : IExtractor&#xa;(IHttpClientFactory / JSON)" vertex="1">
+          <mxGeometry height="80" width="180" x="30" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="wk_orch" parent="grp_worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1;" value="Worker : BackgroundService&#xa;(Orquestador Asíncrono ETL)&#xa;+ Stopwatch (Métricas)" vertex="1">
+          <mxGeometry height="140" width="170" x="245" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wk_log" parent="grp_worker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="ILogger &amp;amp; appsettings.json" vertex="1">
+          <mxGeometry height="60" width="170" x="270" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="2UWoo4PwIF7ruSersiXP-2" edge="1" parent="grp_worker" source="wk_orch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.603;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;" target="wk_log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grp_dest" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;startSize=30;rounded=1;" value="3. Almacenamiento y Analítica (BI)" vertex="1">
+          <mxGeometry height="460" width="290" x="820" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="stg_area" parent="grp_dest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontStyle=1;" value="Zona de Staging (StagingService)&lt;br&gt;Archivos Temporales JSON" vertex="1">
+          <mxGeometry height="85" width="200" x="45" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dw_db" parent="grp_dest" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="Base de Datos Analítica&lt;br&gt;(OpinionesDW - SQL Server)" vertex="1">
+          <mxGeometry height="95" width="200" x="45" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bi_dash" parent="grp_dest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;" value="Módulo de Visualización&lt;br&gt;Dashboard / Power BI" vertex="1">
+          <mxGeometry height="80" width="200" x="45" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="src_csv" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="ext_csv">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="src_db" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="ext_db">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="src_api" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="ext_api">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="ext_csv" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="wk_orch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="ext_db" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="wk_orch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="ext_api" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="wk_orch">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="stg_area" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="dw_db">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="dw_db" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="bi_dash">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2UWoo4PwIF7ruSersiXP-1" edge="1" parent="1" source="wk_orch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=2;" target="stg_area">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

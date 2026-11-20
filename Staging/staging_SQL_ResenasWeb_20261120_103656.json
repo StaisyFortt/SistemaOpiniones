@@ -1,0 +1,2002 @@
+[
+  {
+    "IdOpinion": 201,
+    "IdCliente": 7,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-10-23T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 202,
+    "IdCliente": 28,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-10-15T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 203,
+    "IdCliente": 35,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-02-02T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 204,
+    "IdCliente": 21,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-04-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 205,
+    "IdCliente": 30,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-03-25T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 206,
+    "IdCliente": 21,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-03-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 207,
+    "IdCliente": 18,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-12-03T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 208,
+    "IdCliente": 13,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-01-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 209,
+    "IdCliente": 31,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-01-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 210,
+    "IdCliente": 19,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-04-10T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 211,
+    "IdCliente": 31,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Env\u00C3\u00ADo tard\u00C3\u00ADo y producto da\u00C3\u00B1ado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-02-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 212,
+    "IdCliente": 23,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-04-10T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 213,
+    "IdCliente": 8,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-07-14T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 214,
+    "IdCliente": 13,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-04-25T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 215,
+    "IdCliente": 39,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-06-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 216,
+    "IdCliente": 24,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-09-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 217,
+    "IdCliente": 18,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-04T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 218,
+    "IdCliente": 32,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-11-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 219,
+    "IdCliente": 31,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-08-18T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 220,
+    "IdCliente": 8,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-01-05T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 221,
+    "IdCliente": 4,
+    "IdProducto": 19,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-04-11T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 222,
+    "IdCliente": 8,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-11-07T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 223,
+    "IdCliente": 15,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-01-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 224,
+    "IdCliente": 38,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-11-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 225,
+    "IdCliente": 40,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-05-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 226,
+    "IdCliente": 6,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-12-05T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 227,
+    "IdCliente": 1,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-01-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 228,
+    "IdCliente": 15,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-09-19T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 229,
+    "IdCliente": 15,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-10-10T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 230,
+    "IdCliente": 8,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No funciona como esperaba, decepcionado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-04-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 231,
+    "IdCliente": 4,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-11-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 232,
+    "IdCliente": 29,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-09-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 233,
+    "IdCliente": 33,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-08-03T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 234,
+    "IdCliente": 28,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-05-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 235,
+    "IdCliente": 15,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-11-17T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 236,
+    "IdCliente": 37,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-01-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 237,
+    "IdCliente": 18,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-02-02T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 238,
+    "IdCliente": 31,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-04-02T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 239,
+    "IdCliente": 22,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-04-19T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 240,
+    "IdCliente": 3,
+    "IdProducto": 18,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Env\u00C3\u00ADo tard\u00C3\u00ADo y producto da\u00C3\u00B1ado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-05-07T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 241,
+    "IdCliente": 26,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-10-12T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 242,
+    "IdCliente": 27,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-03-12T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 243,
+    "IdCliente": 29,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-04-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 244,
+    "IdCliente": 19,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-07-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 245,
+    "IdCliente": 16,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-12-05T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 246,
+    "IdCliente": 27,
+    "IdProducto": 18,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-01-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 247,
+    "IdCliente": 32,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 248,
+    "IdCliente": 31,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-01-23T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 249,
+    "IdCliente": 25,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-12-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 250,
+    "IdCliente": 18,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-03-23T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 251,
+    "IdCliente": 1,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-11-17T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 252,
+    "IdCliente": 10,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-03-21T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 253,
+    "IdCliente": 35,
+    "IdProducto": 18,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-06-09T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 254,
+    "IdCliente": 25,
+    "IdProducto": 19,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-08-22T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 255,
+    "IdCliente": 25,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-01-03T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 256,
+    "IdCliente": 33,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-07-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 257,
+    "IdCliente": 34,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-07-02T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 258,
+    "IdCliente": 5,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Env\u00C3\u00ADo tard\u00C3\u00ADo y producto da\u00C3\u00B1ado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-03-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 259,
+    "IdCliente": 6,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-03-03T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 260,
+    "IdCliente": 35,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-05-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 261,
+    "IdCliente": 6,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-10-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 262,
+    "IdCliente": 11,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy mala calidad, se rompi\u00F3\u00C3\u00B3 r\u00C3\u00A1pido. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-08-21T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 263,
+    "IdCliente": 19,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-07-01T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 264,
+    "IdCliente": 27,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No funciona como esperaba, decepcionado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-06-18T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 265,
+    "IdCliente": 40,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-09-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 266,
+    "IdCliente": 38,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-10-22T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 267,
+    "IdCliente": 17,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-04-19T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 268,
+    "IdCliente": 5,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-11-17T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 269,
+    "IdCliente": 17,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Env\u00C3\u00ADo tard\u00C3\u00ADo y producto da\u00C3\u00B1ado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-06-04T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 270,
+    "IdCliente": 7,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-03-14T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 271,
+    "IdCliente": 19,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-04-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 272,
+    "IdCliente": 4,
+    "IdProducto": 19,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-04-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 273,
+    "IdCliente": 23,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-10-31T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 274,
+    "IdCliente": 7,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-04-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 275,
+    "IdCliente": 38,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-07-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 276,
+    "IdCliente": 27,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-11T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 277,
+    "IdCliente": 33,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-05-05T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 278,
+    "IdCliente": 22,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-08-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 279,
+    "IdCliente": 26,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-03-10T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 280,
+    "IdCliente": 1,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-01-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 281,
+    "IdCliente": 38,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-07-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 282,
+    "IdCliente": 2,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-03-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 283,
+    "IdCliente": 5,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-09-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 284,
+    "IdCliente": 8,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-04-11T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 285,
+    "IdCliente": 7,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-07-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 286,
+    "IdCliente": 24,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-02-11T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 287,
+    "IdCliente": 27,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-11-02T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 288,
+    "IdCliente": 3,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No funciona como esperaba, decepcionado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-01-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 289,
+    "IdCliente": 24,
+    "IdProducto": 8,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-09T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 290,
+    "IdCliente": 26,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-01-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 291,
+    "IdCliente": 39,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-03-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 292,
+    "IdCliente": 37,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-05-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 293,
+    "IdCliente": 15,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-11-12T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 294,
+    "IdCliente": 10,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-05-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 295,
+    "IdCliente": 2,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-05-15T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 296,
+    "IdCliente": 2,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-07-11T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 297,
+    "IdCliente": 8,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-01-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 298,
+    "IdCliente": 38,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-05-23T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 299,
+    "IdCliente": 34,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-08-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 300,
+    "IdCliente": 28,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-09-14T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 301,
+    "IdCliente": 6,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-08-11T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 302,
+    "IdCliente": 40,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-09-14T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 303,
+    "IdCliente": 39,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-12-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 304,
+    "IdCliente": 7,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-10-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 305,
+    "IdCliente": 28,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No funciona como esperaba, decepcionado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-02-14T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 306,
+    "IdCliente": 26,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-04-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 307,
+    "IdCliente": 17,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-09-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 308,
+    "IdCliente": 6,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-02-04T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 309,
+    "IdCliente": 9,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-11-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 310,
+    "IdCliente": 8,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-08-18T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 311,
+    "IdCliente": 20,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-12-28T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 312,
+    "IdCliente": 31,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-03-18T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 313,
+    "IdCliente": 8,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-05-21T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 314,
+    "IdCliente": 40,
+    "IdProducto": 18,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-08-31T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 315,
+    "IdCliente": 2,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-03-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 316,
+    "IdCliente": 12,
+    "IdProducto": 1,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-10-12T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 317,
+    "IdCliente": 10,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-07-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 318,
+    "IdCliente": 25,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-06-25T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 319,
+    "IdCliente": 21,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-11-12T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 320,
+    "IdCliente": 10,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-08-19T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 321,
+    "IdCliente": 29,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-11-07T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 322,
+    "IdCliente": 18,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-07-17T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 323,
+    "IdCliente": 8,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-01-07T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 324,
+    "IdCliente": 3,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-08-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 325,
+    "IdCliente": 20,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-05-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 326,
+    "IdCliente": 8,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-06-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 327,
+    "IdCliente": 35,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-01T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 328,
+    "IdCliente": 26,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-02-02T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 329,
+    "IdCliente": 5,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-02-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 330,
+    "IdCliente": 27,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-09-03T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 331,
+    "IdCliente": 40,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Env\u00C3\u00ADo tard\u00C3\u00ADo y producto da\u00C3\u00B1ado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-07-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 332,
+    "IdCliente": 16,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-12-19T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 333,
+    "IdCliente": 20,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-03-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 334,
+    "IdCliente": 33,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-12-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 335,
+    "IdCliente": 23,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-05-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 336,
+    "IdCliente": 17,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-06-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 337,
+    "IdCliente": 32,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-11-21T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 338,
+    "IdCliente": 40,
+    "IdProducto": 19,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-06-28T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 339,
+    "IdCliente": 31,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-04-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 340,
+    "IdCliente": 23,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Env\u00C3\u00ADo tard\u00C3\u00ADo y producto da\u00C3\u00B1ado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-01-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 341,
+    "IdCliente": 4,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-08-05T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 342,
+    "IdCliente": 39,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-11-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 343,
+    "IdCliente": 29,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-10-15T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 344,
+    "IdCliente": 39,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No funciona como esperaba, decepcionado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-08-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 345,
+    "IdCliente": 22,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-12-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 346,
+    "IdCliente": 16,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 5,
+    "FechaEmision": "2024-12-19T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 347,
+    "IdCliente": 11,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-02-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 348,
+    "IdCliente": 39,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-08-11T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 349,
+    "IdCliente": 36,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Env\u00C3\u00ADo tard\u00C3\u00ADo y producto da\u00C3\u00B1ado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-05-07T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 350,
+    "IdCliente": 22,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-03-18T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 351,
+    "IdCliente": 9,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy mala calidad, se rompi\u00F3\u00C3\u00B3 r\u00C3\u00A1pido. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-04-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 352,
+    "IdCliente": 22,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-07-28T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 353,
+    "IdCliente": 24,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-06-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 354,
+    "IdCliente": 32,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-06-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 355,
+    "IdCliente": 7,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-12-18T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 356,
+    "IdCliente": 40,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-06-27T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 357,
+    "IdCliente": 40,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-02-01T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 358,
+    "IdCliente": 24,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No funciona como esperaba, decepcionado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-01-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 359,
+    "IdCliente": 29,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-04-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 360,
+    "IdCliente": 24,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-01-31T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 361,
+    "IdCliente": 25,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-06-23T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 362,
+    "IdCliente": 9,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-10-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 363,
+    "IdCliente": 36,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-07-12T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 364,
+    "IdCliente": 11,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Gran relaci\u00C3\u00B3n calidad-precio. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-06-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 365,
+    "IdCliente": 15,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-08-31T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 366,
+    "IdCliente": 26,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No funciona como esperaba, decepcionado. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-02-28T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 367,
+    "IdCliente": 15,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-09-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 368,
+    "IdCliente": 9,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-09-22T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 369,
+    "IdCliente": 29,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy mala calidad, se rompi\u00F3\u00C3\u00B3 r\u00C3\u00A1pido. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-09-04T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 370,
+    "IdCliente": 10,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-12-17T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 371,
+    "IdCliente": 19,
+    "IdProducto": 4,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-08-20T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 372,
+    "IdCliente": 40,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy mala calidad, se rompi\u00F3\u00C3\u00B3 r\u00C3\u00A1pido. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-01-01T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 373,
+    "IdCliente": 2,
+    "IdProducto": 18,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-05-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 374,
+    "IdCliente": 28,
+    "IdProducto": 10,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 5,
+    "FechaEmision": "2025-05-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 375,
+    "IdCliente": 12,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy mala calidad, se rompi\u00F3\u00C3\u00B3 r\u00C3\u00A1pido. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-19T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 376,
+    "IdCliente": 34,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "P\u00C3\u00A9sima atenci\u00C3\u00B3n al cliente. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-12-04T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 377,
+    "IdCliente": 31,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-03-06T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 378,
+    "IdCliente": 23,
+    "IdProducto": 1,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-05-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 379,
+    "IdCliente": 22,
+    "IdProducto": 19,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 380,
+    "IdCliente": 30,
+    "IdProducto": 6,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-10-25T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 381,
+    "IdCliente": 5,
+    "IdProducto": 5,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-08-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 382,
+    "IdCliente": 3,
+    "IdProducto": 7,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-04-05T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 383,
+    "IdCliente": 26,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Satisface lo b\u00C3\u00A1sico. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-01-14T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 384,
+    "IdCliente": 13,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-10-13T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 385,
+    "IdCliente": 8,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-02-21T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 386,
+    "IdCliente": 22,
+    "IdProducto": 13,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Entrega correcta, sin comentarios adicionales. OK.",
+    "Puntuacion": 4,
+    "FechaEmision": "2024-09-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 387,
+    "IdCliente": 34,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-02-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 388,
+    "IdCliente": 39,
+    "IdProducto": 14,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-12-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 389,
+    "IdCliente": 7,
+    "IdProducto": 11,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-04-10T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 390,
+    "IdCliente": 28,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Calidad superior, muy contento. Muy recomendable.",
+    "Puntuacion": 4,
+    "FechaEmision": "2025-03-18T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 391,
+    "IdCliente": 23,
+    "IdProducto": 2,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-04-26T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 392,
+    "IdCliente": 26,
+    "IdProducto": 3,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-08-29T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 393,
+    "IdCliente": 29,
+    "IdProducto": 20,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 3,
+    "FechaEmision": "2025-05-16T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 394,
+    "IdCliente": 25,
+    "IdProducto": 12,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto recibido, cumple su funci\u00C3\u00B3n. OK.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-11-08T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 395,
+    "IdCliente": 24,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2024-11-24T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 396,
+    "IdCliente": 24,
+    "IdProducto": 17,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Producto lleg\u00F3\u00C3\u00B3 r\u00C3\u00A1pido y funciona perfecto. Muy recomendable.",
+    "Puntuacion": 1,
+    "FechaEmision": "2025-05-09T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 397,
+    "IdCliente": 12,
+    "IdProducto": 1,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "No cumple con lo anunciado, insatisfecho. No volver\u00C3\u00ADa a comprar.",
+    "Puntuacion": 1,
+    "FechaEmision": "2024-11-30T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 398,
+    "IdCliente": 17,
+    "IdProducto": 9,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Informaci\u00C3\u00B3n suficiente, sin mayor novedad. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-11-04T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 399,
+    "IdCliente": 13,
+    "IdProducto": 16,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Me encanta este producto, excelente calidad. Muy recomendable.",
+    "Puntuacion": 2,
+    "FechaEmision": "2025-01-25T00:00:00",
+    "NombreFuente": "Web"
+  },
+  {
+    "IdOpinion": 400,
+    "IdCliente": 6,
+    "IdProducto": 15,
+    "TipoOpinion": "Rese\u00F1a Web",
+    "Contenido": "Es lo que esperaba, nada excepcional. OK.",
+    "Puntuacion": 3,
+    "FechaEmision": "2024-10-07T00:00:00",
+    "NombreFuente": "Web"
+  }
+]
